@@ -1,7 +1,8 @@
 # Web Speech API Demo
 
 ## TO DO:
-- remove inline styling
-- add pitch, speed, and volume controls
-- add speech to text feature
-- add more voice options
+- Remove inline styling
+- Add pitch, speed, and volume controls
+- Add speech to text feature
+- Add more voice options
+- Deploy to gh-pages
